@@ -1,5 +1,5 @@
 # Java
-U.G. java codes with some logical programs
+U.G. java codes and logical programs
 
 Core Java Questions :
 [Core Java Slip.pdf](https://github.com/user-attachments/files/16110392/Core.Java.Slip.pdf)
